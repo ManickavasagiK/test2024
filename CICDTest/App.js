@@ -7,6 +7,7 @@ export default function App() {
       <Text>Open up App.js to start working on your app!</Text>
       <Text>Welcome App</Text>
       <Text>Test for chenged Action</Text>
+      <Text>Added code for CI</Text>
       <StatusBar style="auto" />
     </View>
   );
